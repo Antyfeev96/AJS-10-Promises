@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 export default function read() {
   return new Promise((resolve, reject) => {
     // эмуляция чтения файла
